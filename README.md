@@ -1,2 +1,6 @@
 # helloworld
-for first use
+This project is for teaching
+
+learn python
+learn selenium 
+learn data analysis
