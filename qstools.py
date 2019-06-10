@@ -15,4 +15,4 @@ while j < user_size + 1:
     r.lpush('getuser', si)
     j += 1
 print("done")
-print("测试获取一个userid")
+print("测试获取一个userid",si)
