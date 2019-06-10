@@ -5,7 +5,7 @@ from redis import Redis
 """
 用于将用户id存到redis里面
 """
-user_size = 5000
+user_size = 50
 r = Redis(host='127.0.0.1', decode_responses=True)
 r.delete('getuser')
 j = 0
