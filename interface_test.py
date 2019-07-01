@@ -31,4 +31,4 @@ for i in a:
         except:
             print("网络异常")
 
-con.clos
+con.close()
